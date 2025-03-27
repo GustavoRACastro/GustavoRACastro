@@ -2,10 +2,7 @@
 <h3 align="center">A Mechanical Engineer moving to Data Science field.</h3>
 
 - 🌱 I’m currently learning **SQL and Python**
-
-- 📫 Reach me  at **gustavorodolfocastro@gmail.com**
-
-- 📄 Know about my experiences on [LinkedIN](https://www.linkedin.com/in/gustavoracastro/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/gustavoracastro/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

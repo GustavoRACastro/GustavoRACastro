@@ -6,6 +6,8 @@
 
   Mechanical Engineer since 2021, I have worked with Projects and Maintenance for around 7 years, working with some of the best technologies avaiable, like AutoCAD, SolidWorks, SAP, Totvs and others. Working with maintenance management, I've started to be interested on working with Power Bi, and I had this opportunity, to develop the dashboards we used on Excel, replicating them. So It was a great experience, where I was able to learn about a new world, not only on Power BI, but into Data Analysis, the place where raw info turn into business decisions, where thinking is as important as acting, and I found where I feel more confortable to work on.
 
+  Since this I've been dedicating my time to learn about Data Science, I the last months I'm very engaged on learning SQL and Python, to improve my abilities on conding and improve my analysis.
+
 <h3 align="Center">Connect with me on LinkedIn:</h3>
 <p align="Center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavoracastro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavoracastro/" height="30" width="40" /></a>
